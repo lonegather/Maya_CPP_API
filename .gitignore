@@ -1,0 +1,11 @@
+Thumbs.db
+
+*.tlog
+*.obj
+*.log
+*.idb
+*.pdb
+*.exp
+*.ilk
+*.lib
+*.lastbuildstate
